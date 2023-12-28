@@ -21,12 +21,12 @@ The dataset provided in this project is a dataset that I found on Kaggle
 
 * [Talend](https://www.talend.com/) - Data Integration (modern ETL)
 <p align="center">
-    <img width="300" height="100" src="https://upload.wikimedia.org/wikipedia/commons/7/70/TalendLogoCoral.png">
+    <img width="555" height="554" src="https://upload.wikimedia.org/wikipedia/commons/7/70/TalendLogoCoral.png">
 </p>
-
 
 
 **Project outcome:**
 
 ![Summary page](https://github.com/Baananou/ETL-Talend-DATAVIS-PowerBi/blob/main/Screenshot%20from%20powerbi.png)
-check more in screenshots folder
+![Summary page](https://github.com/Baananou/ETL-Talend-DATAVIS-PowerBi/blob/main/Screenshot%20from%20Talend.png)
+
