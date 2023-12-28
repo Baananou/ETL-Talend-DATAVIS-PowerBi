@@ -1,0 +1,1001 @@
+gender,ethnicity,parental_level_of_education,lunch,test_preparation_course,math_score,reading_score,writing_score,average,rank,grade
+F,Native American,bachelor's degree,standard,Not Completed,100,100,100,100.0,1,A
+M,Native American,bachelor's degree,standard,Completed,100,100,100,100.0,2,A
+F,Native American,associate's degree,standard,Not Completed,100,100,100,100.0,3,A
+F,Native American,bachelor's degree,standard,Completed,99,100,100,99.67,4,A
+F,White,some high school,standard,Completed,97,100,100,99.0,5,A
+F,White,some college,standard,Not Completed,98,100,99,99.0,6,A
+F,Hispanic,bachelor's degree,standard,Completed,96,100,100,98.67,7,A
+M,White,some college,standard,Completed,100,97,99,98.67,8,A
+M,Native American,associate's degree,free/reduced,Completed,100,100,93,97.67,9,A
+F,Native American,master's degree,standard,Completed,94,99,100,97.67,10,A
+F,White,bachelor's degree,free/reduced,Completed,93,100,100,97.67,11,A
+F,Native American,bachelor's degree,free/reduced,Completed,92,100,100,97.33,12,A
+F,White,master's degree,standard,Not Completed,92,100,100,97.33,13,A
+F,Hispanic,bachelor's degree,standard,Completed,92,100,99,97.0,14,A
+F,Hispanic,associate's degree,standard,Completed,96,96,99,97.0,15,A
+F,Black,bachelor's degree,standard,Not Completed,97,97,96,96.67,16,A
+F,Native American,some college,standard,Not Completed,100,92,97,96.33,17,A
+F,Asian,some high school,standard,Completed,92,100,97,96.33,18,A
+F,White,bachelor's degree,standard,Not Completed,89,100,100,96.33,19,A
+F,Native American,associate's degree,standard,Completed,93,100,95,96.0,20,A
+F,White,master's degree,standard,Not Completed,87,100,100,95.67,21,A
+F,White,high school,standard,Completed,88,99,100,95.67,22,A
+F,Native American,high school,standard,Not Completed,99,93,90,94.0,23,A
+M,Hispanic,associate's degree,standard,Completed,87,100,95,94.0,24,A
+M,Asian,some college,standard,Completed,100,96,86,94.0,25,A
+F,Native American,master's degree,standard,Completed,88,99,95,94.0,26,A
+M,Hispanic,associate's degree,standard,Not Completed,97,93,91,93.67,27,A
+F,White,master's degree,free/reduced,Completed,85,95,100,93.33,28,A
+F,Hispanic,associate's degree,standard,Not Completed,91,95,94,93.33,29,A
+M,Asian,bachelor's degree,standard,Not Completed,91,96,92,93.0,30,A
+F,Black,master's degree,standard,Not Completed,90,95,93,92.67,31,A
+M,Hispanic,bachelor's degree,standard,Completed,96,90,92,92.67,32,A
+M,Black,some college,standard,Completed,91,96,91,92.67,33,A
+F,Hispanic,some college,standard,Completed,88,95,94,92.33,34,A
+F,Native American,associate's degree,standard,Completed,95,89,92,92.0,35,A
+F,Native American,associate's degree,standard,Not Completed,87,94,95,92.0,36,A
+F,Black,some college,standard,Completed,88,95,92,91.67,37,A
+F,White,associate's degree,standard,Completed,88,92,95,91.67,38,A
+F,White,some college,standard,Completed,82,97,96,91.67,39,A
+M,Asian,associate's degree,standard,Completed,97,92,86,91.67,40,A
+M,Hispanic,bachelor's degree,standard,Completed,94,90,91,91.67,41,A
+M,Hispanic,associate's degree,standard,Completed,98,87,90,91.67,42,A
+M,Hispanic,some college,standard,Completed,98,86,90,91.33,43,A
+F,Hispanic,some college,standard,Completed,88,93,93,91.33,44,A
+F,White,some high school,standard,Not Completed,81,97,96,91.33,45,A
+F,Black,associate's degree,standard,Completed,94,87,92,91.0,46,A
+M,Black,associate's degree,standard,Completed,91,89,92,90.67,47,A
+F,Hispanic,bachelor's degree,standard,Not Completed,83,93,95,90.33,48,A
+F,Black,associate's degree,standard,Completed,90,90,91,90.33,49,A
+F,Native American,associate's degree,standard,Not Completed,84,95,92,90.33,50,A
+F,Hispanic,some high school,standard,Completed,85,92,93,90.0,51,A
+F,Hispanic,some college,standard,Completed,87,89,94,90.0,52,A
+F,Hispanic,associate's degree,standard,Not Completed,85,89,95,89.67,53,B
+F,White,some college,standard,Completed,85,86,98,89.67,54,B
+F,Black,high school,standard,Not Completed,87,95,86,89.33,55,B
+F,Hispanic,associate's degree,free/reduced,Completed,82,93,93,89.33,56,B
+F,Black,master's degree,free/reduced,Completed,77,97,94,89.33,57,B
+F,Asian,associate's degree,standard,Not Completed,82,93,93,89.33,58,B
+M,Native American,associate's degree,standard,Completed,97,82,88,89.0,59,B
+M,Native American,some college,standard,Completed,99,87,81,89.0,60,B
+M,Hispanic,some college,standard,Completed,93,84,90,89.0,61,B
+M,Black,some high school,standard,Completed,94,86,87,89.0,62,B
+F,Asian,some high school,standard,Completed,85,90,92,89.0,63,B
+M,Native American,some college,standard,Not Completed,97,87,82,88.67,64,B
+F,Hispanic,some college,standard,Not Completed,82,90,94,88.67,65,B
+F,Hispanic,bachelor's degree,standard,Completed,77,94,95,88.67,66,B
+F,White,associate's degree,standard,Not Completed,82,95,89,88.67,67,B
+M,Native American,some college,free/reduced,Not Completed,93,90,83,88.67,68,B
+F,White,associate's degree,standard,Not Completed,85,91,89,88.33,69,B
+F,Hispanic,bachelor's degree,standard,Not Completed,86,92,87,88.33,70,B
+M,Black,bachelor's degree,free/reduced,Completed,87,90,88,88.33,71,B
+F,Native American,some college,standard,Not Completed,87,85,93,88.33,72,B
+F,White,master's degree,standard,Not Completed,78,91,96,88.33,73,B
+F,White,associate's degree,free/reduced,Completed,77,89,98,88.0,74,B
+F,Native American,master's degree,standard,Not Completed,81,92,91,88.0,75,B
+M,Hispanic,high school,standard,Not Completed,88,89,86,87.67,76,B
+M,White,master's degree,free/reduced,Completed,84,89,90,87.67,77,B
+F,Hispanic,some college,standard,Not Completed,84,87,91,87.33,78,B
+M,White,associate's degree,standard,Not Completed,90,87,85,87.33,79,B
+M,Native American,associate's degree,free/reduced,Not Completed,90,90,82,87.33,80,B
+F,Native American,some college,standard,Completed,86,85,91,87.33,81,B
+F,Native American,associate's degree,standard,Not Completed,85,92,85,87.33,82,B
+F,Hispanic,associate's degree,standard,Not Completed,91,86,84,87.0,83,B
+F,Native American,associate's degree,standard,Completed,79,88,94,87.0,84,B
+F,Black,high school,standard,Not Completed,81,91,89,87.0,85,B
+M,Native American,associate's degree,standard,Completed,94,85,82,87.0,86,B
+F,White,bachelor's degree,free/reduced,Not Completed,78,90,93,87.0,87,B
+M,Hispanic,master's degree,standard,Completed,91,85,85,87.0,88,B
+F,Hispanic,bachelor's degree,standard,Completed,79,92,89,86.67,89,B
+M,Native American,some high school,standard,Not Completed,94,88,78,86.67,90,B
+M,White,master's degree,standard,Not Completed,95,81,84,86.67,91,B
+F,White,some high school,standard,Completed,80,92,88,86.67,92,B
+F,Hispanic,master's degree,standard,Completed,81,91,87,86.33,93,B
+M,Native American,high school,standard,Completed,87,91,81,86.33,94,B
+F,White,some college,standard,Not Completed,80,90,89,86.33,95,B
+M,White,some high school,standard,Completed,89,88,82,86.33,96,B
+F,Hispanic,bachelor's degree,standard,Not Completed,81,88,90,86.33,97,B
+M,Native American,master's degree,standard,Not Completed,90,85,84,86.33,98,B
+F,Hispanic,some college,free/reduced,Not Completed,77,90,91,86.0,99,B
+F,Hispanic,associate's degree,standard,Completed,83,85,90,86.0,100,B
+M,Asian,bachelor's degree,standard,Completed,87,84,87,86.0,101,B
+M,White,master's degree,standard,Not Completed,85,84,89,86.0,102,B
+F,Black,some college,standard,Not Completed,79,86,92,85.67,103,B
+F,Native American,associate's degree,free/reduced,Completed,83,86,88,85.67,104,B
+M,Native American,some high school,standard,Not Completed,92,87,78,85.67,105,B
+F,White,bachelor's degree,standard,Not Completed,79,89,89,85.67,106,B
+F,Black,associate's degree,free/reduced,Completed,76,94,87,85.67,107,B
+M,Black,some college,standard,Completed,87,84,86,85.67,108,B
+M,White,associate's degree,standard,Completed,87,84,85,85.33,109,B
+F,Hispanic,some college,standard,Not Completed,83,83,90,85.33,110,B
+F,Hispanic,some high school,standard,Not Completed,77,91,88,85.33,111,B
+F,Asian,some college,standard,Completed,78,87,91,85.33,112,B
+M,White,master's degree,standard,Not Completed,89,84,82,85.0,113,B
+M,Hispanic,bachelor's degree,standard,Not Completed,86,83,86,85.0,114,B
+M,White,high school,standard,Not Completed,89,87,79,85.0,115,B
+M,Hispanic,associate's degree,standard,Not Completed,92,79,84,85.0,116,B
+F,White,some college,free/reduced,Not Completed,79,89,86,84.67,117,B
+F,Black,some college,standard,Not Completed,82,85,87,84.67,118,B
+F,Native American,master's degree,free/reduced,Not Completed,81,86,87,84.67,119,B
+F,White,some college,standard,Completed,79,84,91,84.67,120,B
+F,White,associate's degree,free/reduced,Completed,75,90,88,84.33,121,B
+F,Native American,associate's degree,standard,Completed,82,85,86,84.33,122,B
+F,Hispanic,bachelor's degree,standard,Not Completed,77,88,87,84.0,123,B
+M,White,associate's degree,free/reduced,Not Completed,90,87,75,84.0,124,B
+F,White,some high school,standard,Not Completed,80,90,82,84.0,125,B
+F,White,associate's degree,free/reduced,Completed,74,88,90,84.0,126,B
+F,Black,some high school,free/reduced,Completed,74,90,88,84.0,127,B
+F,Hispanic,some high school,standard,Completed,77,90,85,84.0,128,B
+M,White,some college,standard,Completed,82,82,88,84.0,129,B
+M,Hispanic,some college,standard,Not Completed,84,87,81,84.0,130,B
+F,Hispanic,associate's degree,standard,Not Completed,85,84,82,83.67,131,B
+F,Black,master's degree,standard,Not Completed,77,90,84,83.67,132,B
+M,Hispanic,bachelor's degree,standard,Completed,91,81,79,83.67,133,B
+M,White,some college,standard,Completed,85,81,85,83.67,134,B
+F,White,master's degree,standard,Completed,77,82,91,83.33,135,B
+F,Asian,high school,free/reduced,Completed,77,88,85,83.33,136,B
+F,Native American,some high school,standard,Completed,80,85,85,83.33,137,B
+M,Native American,some high school,standard,Completed,89,84,77,83.33,138,B
+M,Black,some high school,standard,Completed,79,85,86,83.33,139,B
+M,Hispanic,bachelor's degree,standard,Completed,83,82,84,83.0,140,B
+M,Black,some college,standard,Completed,88,85,76,83.0,141,B
+M,Black,associate's degree,standard,Not Completed,90,78,81,83.0,142,B
+F,Black,associate's degree,standard,Not Completed,80,86,83,83.0,143,B
+M,White,bachelor's degree,standard,Not Completed,88,78,83,83.0,144,B
+F,Black,bachelor's degree,free/reduced,Not Completed,77,85,87,83.0,145,B
+F,White,high school,free/reduced,Not Completed,73,92,84,83.0,146,B
+F,Hispanic,bachelor's degree,free/reduced,Completed,74,86,89,83.0,147,B
+F,White,some college,free/reduced,Not Completed,77,86,86,83.0,148,B
+M,Hispanic,high school,standard,Completed,82,84,82,82.67,149,B
+F,Native American,some college,free/reduced,Completed,75,88,85,82.67,150,B
+F,Hispanic,some high school,standard,Completed,76,87,85,82.67,151,B
+F,Hispanic,high school,standard,Not Completed,75,88,85,82.67,152,B
+M,White,some high school,standard,Not Completed,84,84,80,82.67,153,B
+F,Black,high school,standard,Completed,77,82,89,82.67,154,B
+F,Hispanic,some college,standard,Completed,69,90,88,82.33,155,B
+F,Hispanic,some college,free/reduced,Not Completed,76,83,88,82.33,156,B
+M,Black,some high school,standard,Not Completed,88,84,75,82.33,157,B
+F,Hispanic,some college,standard,Completed,70,89,88,82.33,158,B
+M,Black,some high school,standard,Completed,85,84,78,82.33,159,B
+M,Hispanic,high school,standard,Completed,86,81,80,82.33,160,B
+F,White,some college,standard,Not Completed,74,89,84,82.33,161,B
+F,Hispanic,associate's degree,standard,Completed,75,82,90,82.33,162,B
+F,Hispanic,high school,standard,Not Completed,81,84,82,82.33,163,B
+M,Native American,some high school,standard,Completed,87,84,76,82.33,164,B
+M,White,some college,standard,Not Completed,81,82,84,82.33,165,B
+F,White,some college,standard,Not Completed,79,86,81,82.0,166,B
+F,Native American,bachelor's degree,standard,Not Completed,80,83,83,82.0,167,B
+M,White,master's degree,standard,Not Completed,81,81,84,82.0,168,B
+M,Black,associate's degree,standard,Not Completed,87,85,73,81.67,169,B
+M,Black,associate's degree,standard,Completed,81,82,82,81.67,170,B
+M,Native American,some college,standard,Completed,84,83,78,81.67,171,B
+M,White,some high school,standard,Completed,78,81,86,81.67,172,B
+M,Hispanic,associate's degree,standard,Not Completed,84,80,80,81.33,173,B
+F,Black,some high school,standard,Not Completed,82,82,80,81.33,174,B
+M,Native American,associate's degree,free/reduced,Completed,91,73,80,81.33,175,B
+M,Black,associate's degree,standard,Completed,82,84,78,81.33,176,B
+M,Black,high school,standard,Not Completed,82,82,80,81.33,177,B
+M,Asian,associate's degree,free/reduced,Completed,79,82,82,81.0,178,B
+F,Black,high school,free/reduced,Completed,76,85,82,81.0,179,B
+F,Hispanic,some high school,free/reduced,Completed,71,84,87,80.67,180,B
+F,Black,bachelor's degree,free/reduced,Not Completed,75,85,82,80.67,181,B
+M,Black,some high school,standard,Completed,84,83,75,80.67,182,B
+F,White,some high school,standard,Not Completed,73,84,85,80.67,183,B
+F,Native American,bachelor's degree,standard,Completed,79,81,82,80.67,184,B
+M,White,some college,standard,Not Completed,88,77,77,80.67,185,B
+M,Native American,high school,free/reduced,Completed,86,81,75,80.67,186,B
+M,Native American,associate's degree,standard,Completed,81,81,79,80.33,187,B
+M,White,high school,standard,Not Completed,88,78,75,80.33,188,B
+F,White,some high school,standard,Not Completed,73,86,82,80.33,189,B
+M,Hispanic,associate's degree,free/reduced,Completed,78,81,82,80.33,190,B
+M,White,some high school,standard,Not Completed,86,80,75,80.33,191,B
+M,Hispanic,some college,standard,Not Completed,91,74,76,80.33,192,B
+M,White,associate's degree,free/reduced,Completed,79,82,80,80.33,193,B
+M,Native American,some high school,free/reduced,Completed,78,83,80,80.33,194,B
+F,Hispanic,some college,standard,Completed,75,81,84,80.0,195,B
+M,Asian,some college,free/reduced,Completed,81,78,81,80.0,196,B
+F,Native American,high school,standard,Not Completed,75,86,79,80.0,197,B
+F,Black,high school,free/reduced,Not Completed,71,87,82,80.0,198,B
+M,Asian,bachelor's degree,standard,Completed,80,78,81,79.67,199,C
+F,White,bachelor's degree,standard,Not Completed,78,82,79,79.67,200,C
+M,White,some college,standard,Not Completed,88,73,78,79.67,201,C
+M,Native American,associate's degree,standard,Not Completed,89,76,74,79.67,202,C
+M,Black,bachelor's degree,free/reduced,Not Completed,88,75,76,79.67,203,C
+F,Black,associate's degree,standard,Not Completed,82,80,77,79.67,204,C
+F,White,high school,standard,Not Completed,78,81,80,79.67,205,C
+F,Black,bachelor's degree,standard,Not Completed,75,84,80,79.67,206,C
+F,White,associate's degree,standard,Not Completed,74,81,83,79.33,207,C
+M,White,master's degree,standard,Not Completed,82,82,74,79.33,208,C
+M,White,some college,standard,Completed,76,83,79,79.33,209,C
+F,Hispanic,master's degree,standard,Completed,69,84,85,79.33,210,C
+M,White,some high school,free/reduced,Completed,80,79,79,79.33,211,C
+F,Black,some high school,standard,Not Completed,67,89,82,79.33,212,C
+F,Hispanic,associate's degree,standard,Completed,68,86,84,79.33,213,C
+M,Native American,high school,standard,Not Completed,94,73,71,79.33,214,C
+F,Hispanic,associate's degree,standard,Completed,67,84,86,79.0,215,C
+M,Native American,high school,standard,Completed,81,80,76,79.0,216,C
+F,White,some college,free/reduced,Not Completed,71,83,83,79.0,217,C
+M,Native American,associate's degree,standard,Not Completed,87,74,76,79.0,218,C
+F,Hispanic,associate's degree,standard,Not Completed,81,77,79,79.0,219,C
+M,White,some high school,standard,Completed,88,74,75,79.0,220,C
+M,White,some high school,standard,Not Completed,81,78,78,79.0,221,C
+M,Native American,some college,standard,Not Completed,83,80,73,78.67,222,C
+F,Black,bachelor's degree,standard,Not Completed,67,86,83,78.67,223,C
+M,Hispanic,some college,standard,Completed,79,79,78,78.67,224,C
+F,White,bachelor's degree,free/reduced,Not Completed,73,79,84,78.67,225,C
+F,Native American,some high school,standard,Not Completed,77,79,80,78.67,226,C
+M,Native American,some college,standard,Not Completed,86,76,74,78.67,227,C
+F,White,some high school,free/reduced,Completed,69,86,81,78.67,228,C
+F,Asian,high school,standard,Completed,75,82,79,78.67,229,C
+F,White,some college,free/reduced,Completed,67,86,83,78.67,230,C
+F,Hispanic,some college,standard,Not Completed,73,80,82,78.33,231,C
+M,Hispanic,high school,standard,Not Completed,84,77,74,78.33,232,C
+M,White,high school,free/reduced,Completed,78,77,80,78.33,233,C
+F,White,master's degree,standard,Not Completed,74,79,82,78.33,234,C
+F,Native American,associate's degree,free/reduced,Not Completed,70,84,81,78.33,235,C
+F,Hispanic,high school,standard,Not Completed,72,80,83,78.33,236,C
+F,White,some high school,free/reduced,Not Completed,67,84,84,78.33,237,C
+F,Asian,some college,standard,Not Completed,69,84,82,78.33,238,C
+F,White,some college,standard,Completed,75,77,83,78.33,239,C
+F,Black,associate's degree,standard,Completed,61,86,87,78.0,240,C
+M,Black,associate's degree,free/reduced,Completed,82,78,74,78.0,241,C
+M,Hispanic,bachelor's degree,standard,Not Completed,83,78,73,78.0,242,C
+M,Hispanic,associate's degree,standard,Completed,82,75,77,78.0,243,C
+M,Asian,some high school,free/reduced,Not Completed,79,82,73,78.0,244,C
+F,Hispanic,some college,free/reduced,Completed,64,85,85,78.0,245,C
+M,Hispanic,master's degree,standard,Not Completed,79,78,77,78.0,246,C
+F,Native American,some college,standard,Not Completed,76,78,80,78.0,247,C
+M,White,associate's degree,free/reduced,Not Completed,81,75,78,78.0,248,C
+M,Hispanic,high school,standard,Not Completed,90,75,69,78.0,249,C
+F,Black,bachelor's degree,free/reduced,Not Completed,78,79,76,77.67,250,C
+M,Hispanic,associate's degree,standard,Not Completed,83,72,78,77.67,251,C
+F,Native American,high school,standard,Completed,74,79,80,77.67,252,C
+F,Hispanic,associate's degree,standard,Completed,65,84,84,77.67,253,C
+F,Asian,some college,standard,Completed,72,79,82,77.67,254,C
+F,Black,associate's degree,standard,Not Completed,71,83,78,77.33,255,C
+M,White,associate's degree,standard,Not Completed,80,75,77,77.33,256,C
+M,Hispanic,associate's degree,standard,Not Completed,85,76,71,77.33,257,C
+M,White,master's degree,standard,Not Completed,80,80,72,77.33,258,C
+M,Hispanic,associate's degree,standard,Completed,78,77,77,77.33,259,C
+F,Hispanic,associate's degree,standard,Completed,67,84,81,77.33,260,C
+F,Hispanic,associate's degree,standard,Completed,74,75,83,77.33,261,C
+F,Hispanic,some college,standard,Not Completed,71,81,80,77.33,262,C
+M,Native American,some college,standard,Not Completed,84,77,71,77.33,263,C
+F,Black,associate's degree,standard,Not Completed,73,83,76,77.33,264,C
+F,Hispanic,bachelor's degree,free/reduced,Completed,66,83,83,77.33,265,C
+F,Black,some high school,free/reduced,Not Completed,72,81,79,77.33,266,C
+M,Hispanic,associate's degree,free/reduced,Not Completed,87,73,72,77.33,267,C
+M,Native American,some high school,standard,Completed,81,75,76,77.33,268,C
+M,Native American,some college,free/reduced,Completed,87,74,70,77.0,269,C
+F,Black,some college,free/reduced,Not Completed,74,81,76,77.0,270,C
+F,Hispanic,some high school,free/reduced,Not Completed,65,86,80,77.0,271,C
+F,Asian,some high school,standard,Not Completed,71,83,77,77.0,272,C
+M,Hispanic,master's degree,free/reduced,Not Completed,79,81,71,77.0,273,C
+F,Black,some high school,standard,Not Completed,73,79,79,77.0,274,C
+M,Hispanic,master's degree,free/reduced,Completed,79,77,75,77.0,275,C
+F,Hispanic,some high school,standard,Not Completed,74,75,82,77.0,276,C
+M,Native American,some high school,standard,Completed,77,76,77,76.67,277,C
+F,Hispanic,high school,free/reduced,Completed,67,79,84,76.67,278,C
+F,White,bachelor's degree,standard,Completed,71,76,83,76.67,279,C
+M,White,associate's degree,standard,Completed,81,72,77,76.67,280,C
+M,Asian,some college,free/reduced,Not Completed,75,81,74,76.67,281,C
+M,Hispanic,some college,standard,Not Completed,76,78,75,76.33,282,C
+F,Black,high school,standard,Completed,68,83,78,76.33,283,C
+M,White,some high school,standard,Not Completed,86,73,70,76.33,284,C
+F,Black,associate's degree,standard,Not Completed,73,76,80,76.33,285,C
+F,White,some college,standard,Completed,69,79,81,76.33,286,C
+M,Hispanic,some high school,standard,Completed,76,80,73,76.33,287,C
+M,White,bachelor's degree,free/reduced,Completed,74,79,75,76.0,288,C
+F,White,some college,standard,Completed,74,75,79,76.0,289,C
+F,White,associate's degree,standard,Completed,73,75,80,76.0,290,C
+F,White,some high school,standard,Not Completed,65,82,81,76.0,291,C
+F,Black,high school,free/reduced,Completed,67,80,81,76.0,292,C
+F,Hispanic,some high school,standard,Completed,70,82,76,76.0,293,C
+M,Native American,some college,standard,Completed,85,75,68,76.0,294,C
+M,White,associate's degree,free/reduced,Not Completed,77,78,73,76.0,295,C
+F,Native American,some high school,free/reduced,Not Completed,72,79,77,76.0,296,C
+F,Hispanic,master's degree,free/reduced,Completed,65,81,81,75.67,297,C
+F,Hispanic,high school,standard,Not Completed,72,80,75,75.67,298,C
+F,Hispanic,some college,standard,Completed,67,81,79,75.67,299,C
+F,Black,bachelor's degree,standard,Completed,65,81,81,75.67,300,C
+F,Native American,some college,standard,Completed,73,78,76,75.67,301,C
+F,Native American,associate's degree,free/reduced,Not Completed,73,76,78,75.67,302,C
+F,White,associate's degree,standard,Not Completed,77,77,73,75.67,303,C
+F,Hispanic,some college,standard,Not Completed,73,76,78,75.67,304,C
+M,Black,some college,free/reduced,Completed,74,77,76,75.67,305,C
+M,Hispanic,high school,standard,Not Completed,75,81,71,75.67,306,C
+F,White,some college,free/reduced,Completed,70,78,78,75.33,307,C
+M,Native American,high school,standard,Not Completed,84,73,69,75.33,308,C
+M,Black,associate's degree,standard,Not Completed,81,73,72,75.33,309,C
+F,Asian,associate's degree,free/reduced,Not Completed,65,85,76,75.33,310,C
+F,Native American,high school,standard,Not Completed,74,81,71,75.33,311,C
+F,Hispanic,high school,standard,Not Completed,76,76,74,75.33,312,C
+M,Native American,some college,standard,Completed,81,74,71,75.33,313,C
+M,White,bachelor's degree,free/reduced,Completed,74,71,80,75.0,314,C
+M,Native American,bachelor's degree,free/reduced,Completed,79,74,72,75.0,315,C
+F,Hispanic,associate's degree,standard,Completed,71,77,77,75.0,316,C
+F,Black,associate's degree,free/reduced,Completed,68,77,80,75.0,317,C
+M,White,associate's degree,standard,Not Completed,81,71,73,75.0,318,C
+M,White,bachelor's degree,standard,Not Completed,80,73,72,75.0,319,C
+M,White,associate's degree,standard,Not Completed,72,79,74,75.0,320,C
+F,Hispanic,bachelor's degree,standard,Not Completed,65,79,81,75.0,321,C
+F,White,some high school,standard,Completed,65,78,82,75.0,322,C
+F,Hispanic,master's degree,standard,Not Completed,73,78,74,75.0,323,C
+F,Black,some high school,standard,Completed,65,82,78,75.0,324,C
+F,White,bachelor's degree,standard,Completed,68,75,81,74.67,325,C
+F,Asian,some high school,standard,Completed,59,85,80,74.67,326,C
+F,Black,high school,free/reduced,Completed,67,78,79,74.67,327,C
+F,Asian,high school,standard,Completed,68,80,76,74.67,328,C
+M,Hispanic,some college,free/reduced,Not Completed,74,77,73,74.67,329,C
+F,White,high school,standard,Completed,69,77,78,74.67,330,C
+M,White,associate's degree,standard,Not Completed,80,75,69,74.67,331,C
+M,Native American,associate's degree,free/reduced,Completed,78,74,72,74.67,332,C
+F,White,some college,free/reduced,Not Completed,65,81,77,74.33,333,C
+M,White,some high school,standard,Completed,74,71,78,74.33,334,C
+F,Black,some college,standard,Not Completed,70,75,78,74.33,335,C
+F,White,some college,free/reduced,Completed,63,80,80,74.33,336,C
+F,White,some college,standard,Not Completed,69,77,77,74.33,337,C
+F,Native American,high school,standard,Not Completed,74,76,73,74.33,338,C
+F,White,associate's degree,standard,Not Completed,76,74,73,74.33,339,C
+F,Hispanic,some college,standard,Not Completed,69,78,76,74.33,340,C
+M,Hispanic,associate's degree,standard,Completed,73,78,72,74.33,341,C
+M,Black,some college,standard,Completed,69,77,77,74.33,342,C
+F,Hispanic,some college,standard,Completed,64,82,77,74.33,343,C
+F,White,some college,standard,Completed,68,78,77,74.33,344,C
+F,Hispanic,some high school,standard,Not Completed,69,75,78,74.0,345,C
+F,White,some college,standard,Not Completed,77,68,77,74.0,346,C
+F,White,some high school,standard,Completed,66,78,78,74.0,347,C
+M,Native American,bachelor's degree,standard,Completed,85,66,71,74.0,348,C
+M,White,bachelor's degree,standard,Not Completed,75,73,74,74.0,349,C
+F,Hispanic,some college,standard,Completed,71,71,80,74.0,350,C
+M,Hispanic,high school,standard,Not Completed,71,79,71,73.67,351,C
+M,Native American,high school,standard,Not Completed,80,76,65,73.67,352,C
+F,Hispanic,some college,standard,Completed,63,78,80,73.67,353,C
+F,Black,bachelor's degree,standard,Completed,66,74,81,73.67,354,C
+F,Hispanic,bachelor's degree,free/reduced,Completed,66,74,81,73.67,355,C
+M,Asian,some college,standard,Completed,78,72,70,73.33,356,C
+F,Hispanic,associate's degree,standard,Not Completed,69,80,71,73.33,357,C
+F,Hispanic,some high school,free/reduced,Completed,64,79,77,73.33,358,C
+M,Black,associate's degree,standard,Not Completed,80,76,64,73.33,359,C
+M,White,some high school,standard,Not Completed,74,74,72,73.33,360,C
+M,White,associate's degree,standard,Not Completed,80,68,72,73.33,361,C
+M,White,some college,standard,Not Completed,76,71,73,73.33,362,C
+M,Hispanic,master's degree,standard,Not Completed,79,72,69,73.33,363,C
+M,Hispanic,some high school,free/reduced,Not Completed,79,76,65,73.33,364,C
+F,Black,some high school,free/reduced,Completed,63,78,79,73.33,365,C
+F,Native American,some high school,free/reduced,Not Completed,74,74,72,73.33,366,C
+F,Black,high school,standard,Not Completed,65,81,73,73.0,367,C
+M,Asian,master's degree,free/reduced,Not Completed,73,74,72,73.0,368,C
+F,White,some high school,standard,Not Completed,76,72,71,73.0,369,C
+M,Asian,high school,standard,Completed,72,73,74,73.0,370,C
+F,Hispanic,bachelor's degree,standard,Not Completed,63,75,81,73.0,371,C
+F,Black,high school,standard,Completed,69,76,74,73.0,372,C
+M,White,some college,standard,Not Completed,79,73,67,73.0,373,C
+M,Native American,some college,standard,Not Completed,76,71,72,73.0,374,C
+F,White,high school,standard,Not Completed,69,77,73,73.0,375,C
+F,Hispanic,bachelor's degree,free/reduced,Not Completed,62,78,79,73.0,376,C
+M,Hispanic,bachelor's degree,free/reduced,Completed,70,75,74,73.0,377,C
+M,Hispanic,some high school,standard,Completed,78,72,69,73.0,378,C
+F,Black,bachelor's degree,standard,Not Completed,72,72,74,72.67,379,C
+F,Native American,high school,free/reduced,Completed,66,74,78,72.67,380,C
+M,White,some high school,standard,Not Completed,75,74,69,72.67,381,C
+F,White,high school,standard,Not Completed,69,72,77,72.67,382,C
+F,Native American,some college,standard,Not Completed,67,76,75,72.67,383,C
+M,White,master's degree,standard,Not Completed,73,70,75,72.67,384,C
+F,Hispanic,some high school,standard,Completed,67,74,77,72.67,385,C
+F,Black,high school,standard,Not Completed,74,72,72,72.67,386,C
+F,Hispanic,some college,standard,Completed,70,72,76,72.67,387,C
+F,Hispanic,associate's degree,standard,Completed,62,76,80,72.67,388,C
+F,White,some college,standard,Not Completed,69,74,74,72.33,389,C
+M,White,high school,standard,Not Completed,76,73,68,72.33,390,C
+F,Native American,some college,free/reduced,Not Completed,71,76,70,72.33,391,C
+F,Native American,some college,standard,Not Completed,71,70,76,72.33,392,C
+F,Hispanic,associate's degree,standard,Not Completed,65,76,76,72.33,393,C
+F,Native American,associate's degree,standard,Completed,65,75,77,72.33,394,C
+F,White,associate's degree,standard,Not Completed,71,71,74,72.0,395,C
+M,White,bachelor's degree,standard,Completed,68,74,74,72.0,396,C
+M,White,some college,standard,Completed,65,77,74,72.0,397,C
+F,Hispanic,some high school,standard,Completed,65,74,77,72.0,398,C
+F,Hispanic,associate's degree,free/reduced,Not Completed,65,77,74,72.0,399,C
+M,Black,some college,standard,Completed,71,75,70,72.0,400,C
+F,Hispanic,associate's degree,standard,Not Completed,65,77,74,72.0,401,C
+F,Hispanic,associate's degree,standard,Not Completed,66,77,73,72.0,402,C
+F,Hispanic,some high school,free/reduced,Completed,65,76,75,72.0,403,C
+F,Hispanic,some high school,standard,Not Completed,69,73,73,71.67,404,C
+M,Hispanic,associate's degree,standard,Not Completed,69,77,69,71.67,405,C
+F,Hispanic,some college,standard,Not Completed,72,72,71,71.67,406,C
+M,White,some high school,standard,Completed,76,70,69,71.67,407,C
+M,White,high school,free/reduced,Not Completed,75,74,66,71.67,408,C
+F,White,master's degree,standard,Completed,70,71,74,71.67,409,C
+M,Hispanic,high school,standard,Not Completed,70,74,71,71.67,410,C
+M,White,high school,standard,Not Completed,69,75,71,71.67,411,C
+M,Native American,associate's degree,free/reduced,Completed,77,69,68,71.33,412,C
+M,Hispanic,associate's degree,standard,Not Completed,76,70,68,71.33,413,C
+M,Hispanic,associate's degree,standard,Not Completed,74,73,67,71.33,414,C
+M,White,associate's degree,free/reduced,Not Completed,75,66,73,71.33,415,C
+M,Native American,associate's degree,standard,Not Completed,76,71,67,71.33,416,C
+F,White,bachelor's degree,free/reduced,Not Completed,63,73,78,71.33,417,C
+F,White,associate's degree,standard,Completed,57,78,79,71.33,418,C
+F,White,some high school,standard,Not Completed,68,71,75,71.33,419,C
+F,White,associate's degree,standard,Not Completed,64,76,74,71.33,420,C
+F,Hispanic,bachelor's degree,free/reduced,Not Completed,67,75,72,71.33,421,C
+F,Hispanic,associate's degree,standard,Completed,57,77,80,71.33,422,C
+M,White,some high school,standard,Completed,77,68,69,71.33,423,C
+F,Hispanic,high school,standard,Not Completed,66,71,76,71.0,424,C
+M,Black,some college,standard,Not Completed,79,67,67,71.0,425,C
+M,Black,high school,free/reduced,Not Completed,66,77,70,71.0,426,C
+F,Native American,bachelor's degree,standard,Not Completed,65,73,75,71.0,427,C
+M,Native American,associate's degree,standard,Completed,71,74,68,71.0,428,C
+M,Hispanic,bachelor's degree,standard,Completed,71,74,68,71.0,429,C
+F,White,some college,free/reduced,Completed,59,78,76,71.0,430,C
+F,Native American,some college,standard,Completed,66,74,73,71.0,431,C
+F,White,high school,standard,Not Completed,67,72,74,71.0,432,C
+F,White,some college,free/reduced,Not Completed,64,74,75,71.0,433,C
+M,White,high school,free/reduced,Not Completed,74,70,69,71.0,434,C
+M,Asian,bachelor's degree,standard,Not Completed,77,67,68,70.67,435,C
+F,Black,master's degree,free/reduced,Completed,58,76,78,70.67,436,C
+F,Hispanic,some college,free/reduced,Completed,67,75,70,70.67,437,C
+M,Black,high school,standard,Completed,73,71,68,70.67,438,C
+M,Hispanic,high school,standard,Completed,75,69,68,70.67,439,C
+F,Hispanic,bachelor's degree,standard,Not Completed,67,69,75,70.33,440,C
+F,Hispanic,bachelor's degree,standard,Not Completed,65,72,74,70.33,441,C
+F,Hispanic,some college,standard,Not Completed,63,74,74,70.33,442,C
+F,White,some high school,standard,Not Completed,59,72,80,70.33,443,C
+F,Native American,bachelor's degree,standard,Completed,71,70,70,70.33,444,C
+M,Hispanic,some college,free/reduced,Completed,67,74,70,70.33,445,C
+M,Hispanic,high school,standard,Not Completed,81,66,64,70.33,446,C
+F,Native American,associate's degree,standard,Not Completed,68,76,67,70.33,447,C
+F,Black,some college,free/reduced,Completed,65,75,70,70.0,448,C
+M,Native American,some college,standard,Not Completed,76,67,67,70.0,449,C
+M,Black,high school,standard,Completed,73,69,68,70.0,450,C
+F,White,master's degree,free/reduced,Completed,61,71,78,70.0,451,C
+F,Hispanic,high school,free/reduced,Not Completed,66,76,68,70.0,452,C
+M,Native American,bachelor's degree,free/reduced,Completed,70,68,72,70.0,453,C
+F,Hispanic,high school,standard,Completed,58,75,77,70.0,454,C
+M,White,high school,standard,Not Completed,70,70,70,70.0,455,C
+F,Hispanic,some high school,standard,Not Completed,65,69,76,70.0,456,C
+M,Native American,some high school,standard,Not Completed,82,67,61,70.0,457,C
+M,Hispanic,some college,free/reduced,Not Completed,80,64,66,70.0,458,C
+M,Hispanic,master's degree,free/reduced,Completed,72,66,72,70.0,459,C
+F,Hispanic,associate's degree,free/reduced,Not Completed,60,75,74,69.67,460,D
+M,Hispanic,some high school,standard,Not Completed,75,72,62,69.67,461,D
+M,Asian,high school,standard,Not Completed,71,74,64,69.67,462,D
+F,Asian,associate's degree,standard,Completed,65,70,74,69.67,463,D
+M,White,high school,free/reduced,Not Completed,66,74,69,69.67,464,D
+F,Hispanic,associate's degree,standard,Completed,68,67,73,69.33,465,D
+M,Hispanic,associate's degree,free/reduced,Not Completed,77,67,64,69.33,466,D
+M,Hispanic,some college,standard,Not Completed,73,74,61,69.33,467,D
+M,White,some high school,standard,Completed,71,69,68,69.33,468,D
+F,Black,high school,standard,Not Completed,66,72,70,69.33,469,D
+M,Hispanic,some high school,standard,Completed,67,73,68,69.33,470,D
+M,Black,some college,free/reduced,Not Completed,75,68,65,69.33,471,D
+F,Black,high school,free/reduced,Not Completed,64,73,71,69.33,472,D
+F,White,some college,free/reduced,Not Completed,69,65,74,69.33,473,D
+F,White,bachelor's degree,free/reduced,Not Completed,62,72,74,69.33,474,D
+F,White,master's degree,standard,Not Completed,62,70,75,69.0,475,D
+F,White,associate's degree,free/reduced,Completed,57,74,76,69.0,476,D
+F,White,some high school,standard,Completed,61,74,72,69.0,477,D
+M,Black,some high school,standard,Not Completed,72,68,67,69.0,478,D
+M,Hispanic,associate's degree,free/reduced,Not Completed,73,68,66,69.0,479,D
+M,White,high school,free/reduced,Completed,73,68,66,69.0,480,D
+F,Native American,bachelor's degree,standard,Not Completed,64,73,70,69.0,481,D
+M,White,associate's degree,standard,Not Completed,75,68,64,69.0,482,D
+F,Hispanic,bachelor's degree,standard,Completed,56,79,72,69.0,483,D
+F,Hispanic,some college,free/reduced,Completed,63,73,71,69.0,484,D
+M,White,bachelor's degree,free/reduced,Completed,61,70,76,69.0,485,D
+F,White,associate's degree,free/reduced,Not Completed,55,76,76,69.0,486,D
+F,Hispanic,some college,standard,Not Completed,60,72,74,68.67,487,D
+F,Black,some high school,standard,Not Completed,70,64,72,68.67,488,D
+M,Native American,bachelor's degree,standard,Not Completed,82,62,62,68.67,489,D
+M,White,some college,standard,Not Completed,76,64,66,68.67,490,D
+F,White,some college,standard,Not Completed,65,70,71,68.67,491,D
+M,White,associate's degree,standard,Completed,67,72,67,68.67,492,D
+F,Hispanic,high school,standard,Not Completed,63,69,74,68.67,493,D
+F,Hispanic,associate's degree,standard,Not Completed,62,74,70,68.67,494,D
+F,Hispanic,associate's degree,standard,Completed,55,72,79,68.67,495,D
+M,Hispanic,associate's degree,free/reduced,Completed,65,73,68,68.67,496,D
+M,White,associate's degree,standard,Not Completed,80,63,63,68.67,497,D
+M,White,high school,free/reduced,Not Completed,69,70,67,68.67,498,D
+M,Hispanic,high school,standard,Not Completed,70,70,65,68.33,499,D
+F,Native American,some college,standard,Completed,63,72,70,68.33,500,D
+M,Hispanic,master's degree,free/reduced,Completed,62,68,75,68.33,501,D
+F,Native American,some college,standard,Not Completed,62,73,70,68.33,502,D
+F,Hispanic,associate's degree,free/reduced,Not Completed,64,73,68,68.33,503,D
+M,Asian,some college,standard,Not Completed,69,67,69,68.33,504,D
+M,Hispanic,some high school,free/reduced,Not Completed,69,71,65,68.33,505,D
+M,Hispanic,some high school,standard,Not Completed,73,66,66,68.33,506,D
+M,Black,high school,standard,Completed,72,65,68,68.33,507,D
+M,Native American,some college,standard,Not Completed,68,72,65,68.33,508,D
+M,Hispanic,master's degree,standard,Not Completed,71,67,67,68.33,509,D
+M,White,associate's degree,free/reduced,Completed,61,71,73,68.33,510,D
+F,Native American,high school,free/reduced,Completed,57,75,73,68.33,511,D
+F,White,associate's degree,standard,Not Completed,65,69,70,68.0,512,D
+M,Asian,some high school,free/reduced,Not Completed,68,72,64,68.0,513,D
+F,Hispanic,associate's degree,free/reduced,Completed,68,67,69,68.0,514,D
+F,Hispanic,some high school,standard,Not Completed,63,73,68,68.0,515,D
+M,Asian,high school,free/reduced,Completed,72,67,65,68.0,516,D
+M,Native American,bachelor's degree,standard,Completed,76,62,66,68.0,517,D
+M,Asian,high school,standard,Not Completed,68,70,66,68.0,518,D
+M,Black,high school,standard,Not Completed,79,60,65,68.0,519,D
+F,Black,some high school,standard,Completed,60,70,74,68.0,520,D
+F,Hispanic,some college,free/reduced,Not Completed,62,72,70,68.0,521,D
+F,Hispanic,associate's degree,standard,Completed,59,73,72,68.0,522,D
+M,Native American,bachelor's degree,standard,Completed,70,64,70,68.0,523,D
+F,Native American,some college,standard,Not Completed,68,70,66,68.0,524,D
+M,White,high school,standard,Not Completed,72,66,66,68.0,525,D
+F,White,some college,standard,Not Completed,62,70,72,68.0,526,D
+M,Black,bachelor's degree,standard,Not Completed,63,71,69,67.67,527,D
+F,Black,bachelor's degree,standard,Not Completed,61,72,70,67.67,528,D
+F,Hispanic,high school,standard,Not Completed,61,72,70,67.67,529,D
+F,Black,some high school,standard,Not Completed,66,69,68,67.67,530,D
+M,Hispanic,high school,standard,Completed,72,67,64,67.67,531,D
+M,White,some college,free/reduced,Not Completed,77,62,64,67.67,532,D
+M,White,bachelor's degree,free/reduced,Not Completed,68,68,67,67.67,533,D
+M,Hispanic,high school,standard,Not Completed,71,66,65,67.33,534,D
+F,White,bachelor's degree,standard,Not Completed,59,70,73,67.33,535,D
+F,Hispanic,associate's degree,free/reduced,Not Completed,57,78,67,67.33,536,D
+F,Hispanic,bachelor's degree,free/reduced,Completed,51,72,79,67.33,537,D
+M,Black,associate's degree,free/reduced,Completed,69,70,63,67.33,538,D
+M,Hispanic,some high school,standard,Not Completed,73,66,63,67.33,539,D
+M,White,some college,standard,Completed,71,61,69,67.0,540,D
+M,White,some college,standard,Completed,77,62,62,67.0,541,D
+F,Asian,some high school,free/reduced,Not Completed,59,73,69,67.0,542,D
+M,White,some high school,standard,Not Completed,73,66,62,67.0,543,D
+F,Asian,high school,standard,Not Completed,55,73,73,67.0,544,D
+M,White,some college,standard,Not Completed,67,64,70,67.0,545,D
+F,Hispanic,high school,standard,Not Completed,65,69,67,67.0,546,D
+F,Asian,bachelor's degree,standard,Not Completed,59,72,70,67.0,547,D
+M,Hispanic,some college,standard,Not Completed,69,64,68,67.0,548,D
+F,Hispanic,associate's degree,standard,Not Completed,63,67,70,66.67,549,D
+F,Native American,associate's degree,standard,Not Completed,66,65,69,66.67,550,D
+F,Black,some high school,standard,Completed,60,70,70,66.67,551,D
+F,Hispanic,some college,standard,Not Completed,59,71,70,66.67,552,D
+M,Native American,bachelor's degree,standard,Not Completed,68,68,64,66.67,553,D
+F,Hispanic,high school,standard,Not Completed,60,68,72,66.67,554,D
+F,Black,high school,free/reduced,Not Completed,60,72,68,66.67,555,D
+F,Hispanic,some college,standard,Not Completed,62,69,69,66.67,556,D
+F,Hispanic,associate's degree,standard,Not Completed,58,73,68,66.33,557,D
+M,Native American,associate's degree,standard,Not Completed,72,64,63,66.33,558,D
+M,Native American,some high school,free/reduced,Completed,73,67,59,66.33,559,D
+M,Asian,bachelor's degree,free/reduced,Not Completed,62,72,65,66.33,560,D
+F,Hispanic,high school,standard,Not Completed,59,72,68,66.33,561,D
+M,White,high school,standard,Not Completed,66,69,63,66.0,562,D
+F,Native American,master's degree,standard,Not Completed,62,68,68,66.0,563,D
+F,Black,associate's degree,free/reduced,Not Completed,52,76,70,66.0,564,D
+M,Asian,some high school,standard,Completed,62,67,69,66.0,565,D
+F,White,high school,standard,Completed,56,68,74,66.0,566,D
+F,White,some high school,standard,Completed,64,60,74,66.0,567,D
+F,Hispanic,bachelor's degree,standard,Completed,59,64,75,66.0,568,D
+F,Hispanic,associate's degree,standard,Not Completed,64,64,70,66.0,569,D
+M,White,high school,standard,Completed,68,64,66,66.0,570,D
+M,Black,high school,standard,Completed,76,62,60,66.0,571,D
+F,Native American,associate's degree,free/reduced,Completed,57,68,73,66.0,572,D
+F,Hispanic,high school,standard,Completed,60,64,74,66.0,573,D
+M,Native American,some high school,standard,Completed,74,64,60,66.0,574,D
+M,Asian,some high school,standard,Completed,66,68,64,66.0,575,D
+F,Hispanic,some college,standard,Not Completed,58,67,72,65.67,576,D
+M,Hispanic,associate's degree,free/reduced,Completed,65,67,65,65.67,577,D
+F,Native American,high school,standard,Completed,59,63,75,65.67,578,D
+F,Hispanic,high school,standard,Not Completed,61,73,63,65.67,579,D
+M,White,associate's degree,standard,Not Completed,71,66,60,65.67,580,D
+M,Black,some high school,standard,Completed,63,67,67,65.67,581,D
+M,Hispanic,some college,free/reduced,Not Completed,68,68,61,65.67,582,D
+F,White,high school,free/reduced,Completed,65,61,71,65.67,583,D
+M,White,some high school,standard,Completed,62,66,68,65.33,584,D
+M,White,bachelor's degree,free/reduced,Not Completed,63,66,67,65.33,585,D
+F,Black,high school,standard,Completed,58,70,68,65.33,586,D
+M,White,bachelor's degree,standard,Completed,67,61,68,65.33,587,D
+F,Black,some college,standard,Not Completed,62,67,67,65.33,588,D
+M,White,some high school,standard,Not Completed,69,66,61,65.33,589,D
+M,Black,some college,standard,Completed,62,66,68,65.33,590,D
+F,Black,some high school,standard,Not Completed,57,67,72,65.33,591,D
+F,White,some college,free/reduced,Not Completed,60,66,70,65.33,592,D
+M,White,high school,free/reduced,Completed,64,64,67,65.0,593,D
+F,Asian,some college,standard,Not Completed,58,70,67,65.0,594,D
+F,Black,associate's degree,standard,Completed,59,70,66,65.0,595,D
+F,Black,some college,free/reduced,Not Completed,61,68,66,65.0,596,D
+M,White,some college,free/reduced,Not Completed,69,66,60,65.0,597,D
+M,Asian,bachelor's degree,standard,Completed,75,58,62,65.0,598,D
+M,Black,high school,standard,Not Completed,70,65,60,65.0,599,D
+F,White,some college,free/reduced,Not Completed,55,71,69,65.0,600,D
+F,Hispanic,high school,free/reduced,Completed,59,71,65,65.0,601,D
+F,White,some college,free/reduced,Completed,58,63,73,64.67,602,D
+F,White,bachelor's degree,standard,Not Completed,65,67,62,64.67,603,D
+F,Black,associate's degree,standard,Not Completed,57,69,68,64.67,604,D
+M,Black,some high school,standard,Not Completed,74,63,57,64.67,605,D
+M,Hispanic,master's degree,free/reduced,Not Completed,61,67,66,64.67,606,D
+F,White,associate's degree,standard,Not Completed,59,70,65,64.67,607,D
+F,Native American,high school,free/reduced,Not Completed,64,62,68,64.67,608,D
+F,White,some college,standard,Not Completed,63,64,67,64.67,609,D
+M,Hispanic,associate's degree,free/reduced,Not Completed,68,65,61,64.67,610,D
+F,Hispanic,associate's degree,free/reduced,Completed,56,68,70,64.67,611,D
+M,Native American,high school,standard,Not Completed,73,64,57,64.67,612,D
+F,Native American,master's degree,free/reduced,Not Completed,56,72,65,64.33,613,D
+M,Black,some high school,standard,Completed,65,66,62,64.33,614,D
+M,Native American,associate's degree,standard,Completed,66,63,64,64.33,615,D
+M,Hispanic,some high school,free/reduced,Completed,59,69,65,64.33,616,D
+M,Hispanic,bachelor's degree,standard,Not Completed,69,63,61,64.33,617,D
+M,Black,associate's degree,standard,Completed,65,65,63,64.33,618,D
+F,White,master's degree,standard,Not Completed,64,63,66,64.33,619,D
+F,Hispanic,high school,free/reduced,Not Completed,62,67,64,64.33,620,D
+F,Black,associate's degree,free/reduced,Not Completed,53,70,70,64.33,621,D
+M,Hispanic,bachelor's degree,standard,Completed,63,64,66,64.33,622,D
+M,Black,some high school,standard,Not Completed,67,64,61,64.0,623,D
+F,Hispanic,associate's degree,standard,Not Completed,59,66,67,64.0,624,D
+M,White,associate's degree,free/reduced,Not Completed,66,62,64,64.0,625,D
+F,Black,some high school,standard,Not Completed,62,64,66,64.0,626,D
+M,Hispanic,high school,standard,Not Completed,71,60,61,64.0,627,D
+M,Asian,bachelor's degree,standard,Not Completed,66,64,62,64.0,628,D
+M,White,some college,free/reduced,Completed,69,60,63,64.0,629,D
+F,Black,some college,free/reduced,Completed,53,66,73,64.0,630,D
+F,Asian,high school,standard,Not Completed,61,68,63,64.0,631,D
+F,Black,associate's degree,standard,Completed,52,66,73,63.67,632,D
+F,Black,high school,standard,Not Completed,65,64,62,63.67,633,D
+F,Black,associate's degree,free/reduced,Not Completed,53,71,67,63.67,634,D
+F,Hispanic,some college,free/reduced,Not Completed,62,67,62,63.67,635,D
+M,Hispanic,high school,free/reduced,Not Completed,66,66,59,63.67,636,D
+F,Black,some high school,free/reduced,Completed,52,67,72,63.67,637,D
+M,Black,some college,standard,Not Completed,66,65,60,63.67,638,D
+M,White,some college,free/reduced,Not Completed,70,63,58,63.67,639,D
+M,Native American,associate's degree,standard,Not Completed,72,57,62,63.67,640,D
+M,Black,some college,free/reduced,Completed,59,65,66,63.33,641,D
+M,White,some high school,standard,Not Completed,62,67,61,63.33,642,D
+F,White,high school,standard,Not Completed,62,64,64,63.33,643,D
+F,Asian,master's degree,free/reduced,Not Completed,50,67,73,63.33,644,D
+F,Native American,associate's degree,standard,Not Completed,59,62,69,63.33,645,D
+F,Black,some college,standard,Not Completed,63,65,61,63.0,646,D
+F,Hispanic,some college,standard,Not Completed,55,69,65,63.0,647,D
+M,Black,associate's degree,free/reduced,Not Completed,67,62,60,63.0,648,D
+M,White,some college,standard,Not Completed,68,59,62,63.0,649,D
+M,Hispanic,associate's degree,free/reduced,Not Completed,64,66,59,63.0,650,D
+F,White,master's degree,standard,Not Completed,55,64,70,63.0,651,D
+F,Hispanic,high school,free/reduced,Not Completed,53,72,64,63.0,652,D
+M,Hispanic,bachelor's degree,free/reduced,Not Completed,61,66,61,62.67,653,D
+F,Hispanic,some college,free/reduced,Completed,45,73,70,62.67,654,D
+M,Black,high school,standard,Not Completed,60,68,60,62.67,655,D
+M,Asian,high school,standard,Not Completed,63,63,62,62.67,656,D
+F,White,some college,free/reduced,Not Completed,58,67,62,62.33,657,D
+F,White,some high school,standard,Not Completed,59,67,61,62.33,658,D
+M,Native American,some college,standard,Not Completed,68,60,59,62.33,659,D
+F,Native American,some college,standard,Not Completed,61,64,62,62.33,660,D
+F,Black,high school,standard,Not Completed,62,62,63,62.33,661,D
+M,Hispanic,high school,standard,Not Completed,62,67,58,62.33,662,D
+F,Black,high school,standard,Not Completed,58,68,61,62.33,663,D
+M,White,some college,standard,Not Completed,72,57,58,62.33,664,D
+M,Black,bachelor's degree,free/reduced,Not Completed,73,56,57,62.0,665,D
+F,Black,bachelor's degree,standard,Not Completed,52,65,69,62.0,666,D
+F,Black,high school,standard,Not Completed,54,64,68,62.0,667,D
+F,Black,associate's degree,standard,Not Completed,58,63,65,62.0,668,D
+F,Black,some high school,free/reduced,Completed,59,63,64,62.0,669,D
+M,Hispanic,some college,standard,Not Completed,63,63,60,62.0,670,D
+F,Hispanic,some college,free/reduced,Not Completed,59,62,64,61.67,671,D
+F,Black,some college,free/reduced,Not Completed,58,61,66,61.67,672,D
+M,Asian,associate's degree,standard,Not Completed,63,61,61,61.67,673,D
+M,Hispanic,some high school,free/reduced,Not Completed,68,63,54,61.67,674,D
+F,Hispanic,master's degree,standard,Completed,54,64,67,61.67,675,D
+M,Hispanic,high school,free/reduced,Not Completed,54,72,59,61.67,676,D
+M,Hispanic,associate's degree,standard,Not Completed,62,65,58,61.67,677,D
+F,Black,master's degree,free/reduced,Completed,52,70,62,61.33,678,D
+F,White,associate's degree,free/reduced,Not Completed,56,65,63,61.33,679,D
+M,Hispanic,some college,standard,Not Completed,61,61,62,61.33,680,D
+M,White,bachelor's degree,standard,Not Completed,69,58,57,61.33,681,D
+M,White,some college,free/reduced,Not Completed,63,61,60,61.33,682,D
+M,White,associate's degree,standard,Completed,67,54,63,61.33,683,D
+F,Black,associate's degree,free/reduced,Not Completed,54,65,65,61.33,684,D
+M,Asian,some high school,free/reduced,Completed,61,62,61,61.33,685,D
+F,Asian,some college,standard,Not Completed,54,63,67,61.33,686,D
+M,Black,bachelor's degree,standard,Not Completed,66,60,57,61.0,687,D
+F,Hispanic,some college,standard,Not Completed,54,64,65,61.0,688,D
+M,Asian,some high school,standard,Not Completed,71,62,50,61.0,689,D
+F,Hispanic,some college,standard,Not Completed,58,59,66,61.0,690,D
+M,Hispanic,master's degree,standard,Not Completed,67,57,59,61.0,691,D
+M,Native American,some college,standard,Not Completed,69,60,54,61.0,692,D
+F,Asian,associate's degree,standard,Completed,55,65,62,60.67,693,D
+F,Hispanic,some high school,free/reduced,Not Completed,55,65,62,60.67,694,D
+M,White,some college,free/reduced,Not Completed,59,62,61,60.67,695,D
+F,White,master's degree,standard,Not Completed,53,61,68,60.67,696,D
+M,White,some college,standard,Not Completed,60,63,59,60.67,697,D
+M,Asian,bachelor's degree,standard,Not Completed,64,60,58,60.67,698,D
+M,Black,some college,free/reduced,Completed,60,62,60,60.67,699,D
+M,White,some college,standard,Completed,63,55,63,60.33,700,D
+M,Native American,high school,standard,Not Completed,70,55,56,60.33,701,D
+M,Hispanic,high school,standard,Not Completed,68,60,53,60.33,702,D
+M,Native American,associate's degree,standard,Completed,62,61,58,60.33,703,D
+M,Black,bachelor's degree,free/reduced,Not Completed,62,63,56,60.33,704,D
+F,Native American,bachelor's degree,free/reduced,Not Completed,61,58,62,60.33,705,D
+M,Hispanic,some high school,standard,Not Completed,62,64,55,60.33,706,D
+M,White,some college,free/reduced,Not Completed,62,57,62,60.33,707,D
+M,Black,some college,free/reduced,Not Completed,60,60,60,60.0,708,D
+M,Hispanic,some high school,standard,Completed,63,60,57,60.0,709,D
+M,Black,some college,standard,Not Completed,62,61,57,60.0,710,D
+M,Hispanic,high school,standard,Completed,69,58,53,60.0,711,D
+F,Black,high school,free/reduced,Not Completed,50,67,63,60.0,712,D
+F,Hispanic,some high school,standard,Completed,59,54,67,60.0,713,D
+F,Hispanic,high school,free/reduced,Completed,50,66,64,60.0,714,D
+F,Black,some college,standard,Completed,50,64,66,60.0,715,D
+F,Black,high school,standard,Not Completed,58,62,59,59.67,716,F
+F,White,high school,standard,Completed,57,58,64,59.67,717,F
+F,White,high school,standard,Not Completed,51,66,62,59.67,718,F
+F,Asian,some high school,standard,Not Completed,48,66,65,59.67,719,F
+F,Hispanic,bachelor's degree,standard,Completed,52,61,66,59.67,720,F
+M,Black,some college,standard,Not Completed,69,54,55,59.33,721,F
+M,Asian,associate's degree,free/reduced,Not Completed,62,61,55,59.33,722,F
+M,Hispanic,some college,free/reduced,Not Completed,63,61,54,59.33,723,F
+F,Hispanic,master's degree,free/reduced,Not Completed,52,65,61,59.33,724,F
+F,Asian,some college,free/reduced,Not Completed,61,60,57,59.33,725,F
+F,Asian,some college,standard,Not Completed,56,58,64,59.33,726,F
+F,Hispanic,some college,free/reduced,Completed,42,66,69,59.0,727,F
+M,Hispanic,some college,standard,Not Completed,59,60,58,59.0,728,F
+M,Asian,some high school,free/reduced,Not Completed,65,59,53,59.0,729,F
+M,Hispanic,high school,standard,Not Completed,70,56,51,59.0,730,F
+F,Black,some high school,standard,Completed,54,61,62,59.0,731,F
+M,Hispanic,some high school,free/reduced,Completed,56,61,60,59.0,732,F
+F,White,master's degree,standard,Not Completed,54,60,63,59.0,733,F
+M,Hispanic,some college,standard,Not Completed,66,59,52,59.0,734,F
+M,Asian,associate's degree,standard,Not Completed,67,57,53,59.0,735,F
+F,Black,associate's degree,standard,Not Completed,53,58,65,58.67,736,F
+M,Black,associate's degree,standard,Not Completed,65,54,57,58.67,737,F
+F,White,some high school,standard,Not Completed,59,58,59,58.67,738,F
+M,White,high school,free/reduced,Not Completed,63,57,56,58.67,739,F
+F,Hispanic,some college,free/reduced,Not Completed,46,64,66,58.67,740,F
+F,Hispanic,associate's degree,free/reduced,Not Completed,53,61,62,58.67,741,F
+M,Native American,some high school,standard,Completed,68,51,57,58.67,742,F
+M,Hispanic,high school,free/reduced,Not Completed,61,60,55,58.67,743,F
+F,White,some college,free/reduced,Completed,52,59,65,58.67,744,F
+M,White,some college,standard,Completed,58,59,58,58.33,745,F
+M,Black,associate's degree,free/reduced,Not Completed,61,58,56,58.33,746,F
+F,White,some high school,standard,Not Completed,51,63,61,58.33,747,F
+M,Native American,some college,standard,Not Completed,66,57,52,58.33,748,F
+F,Hispanic,high school,standard,Not Completed,54,59,62,58.33,749,F
+M,Asian,some college,free/reduced,Not Completed,58,60,57,58.33,750,F
+M,Black,some high school,standard,Not Completed,68,54,53,58.33,751,F
+F,Hispanic,bachelor's degree,free/reduced,Completed,47,62,66,58.33,752,F
+F,White,some college,free/reduced,Not Completed,49,65,61,58.33,753,F
+M,Hispanic,some high school,free/reduced,Not Completed,61,57,56,58.0,754,F
+M,Black,some high school,standard,Completed,64,53,57,58.0,755,F
+F,Hispanic,associate's degree,free/reduced,Not Completed,54,58,61,57.67,756,F
+F,White,some high school,free/reduced,Not Completed,50,64,59,57.67,757,F
+M,Black,some high school,standard,Completed,61,56,56,57.67,758,F
+M,White,some high school,standard,Not Completed,60,59,54,57.67,759,F
+M,White,some high school,free/reduced,Completed,55,59,59,57.67,760,F
+F,Hispanic,associate's degree,standard,Completed,52,59,62,57.67,761,F
+M,Hispanic,some high school,standard,Not Completed,64,58,51,57.67,762,F
+F,Hispanic,associate's degree,standard,Not Completed,54,61,58,57.67,763,F
+F,White,master's degree,free/reduced,Completed,47,58,67,57.33,764,F
+M,Hispanic,high school,standard,Not Completed,61,56,55,57.33,765,F
+M,Hispanic,some college,free/reduced,Not Completed,65,58,49,57.33,766,F
+M,White,some college,standard,Not Completed,71,49,52,57.33,767,F
+M,Hispanic,some high school,standard,Not Completed,57,61,54,57.33,768,F
+M,Native American,associate's degree,free/reduced,Not Completed,64,56,52,57.33,769,F
+F,Native American,high school,free/reduced,Not Completed,57,58,57,57.33,770,F
+M,Hispanic,high school,free/reduced,Not Completed,62,55,55,57.33,771,F
+M,Native American,associate's degree,standard,Completed,62,56,53,57.0,772,F
+M,Hispanic,high school,free/reduced,Not Completed,58,61,52,57.0,773,F
+F,Hispanic,some college,standard,Not Completed,53,62,56,57.0,774,F
+M,Black,high school,standard,Not Completed,62,55,54,57.0,775,F
+M,Black,associate's degree,free/reduced,Not Completed,57,56,57,56.67,776,F
+M,Hispanic,associate's degree,free/reduced,Not Completed,55,61,54,56.67,777,F
+F,Hispanic,some high school,free/reduced,Completed,50,60,60,56.67,778,F
+F,Black,high school,standard,Not Completed,48,62,60,56.67,779,F
+F,Asian,some college,free/reduced,Not Completed,49,65,55,56.33,780,F
+M,Hispanic,associate's degree,standard,Completed,51,60,58,56.33,781,F
+F,Hispanic,bachelor's degree,free/reduced,Not Completed,44,63,62,56.33,782,F
+M,Hispanic,some college,free/reduced,Not Completed,58,57,54,56.33,783,F
+F,Hispanic,bachelor's degree,free/reduced,Not Completed,50,60,59,56.33,784,F
+F,White,some high school,free/reduced,Completed,40,65,64,56.33,785,F
+M,White,associate's degree,standard,Not Completed,61,55,52,56.0,786,F
+F,Hispanic,some college,standard,Not Completed,52,58,58,56.0,787,F
+M,Black,bachelor's degree,free/reduced,Not Completed,55,59,54,56.0,788,F
+M,White,high school,free/reduced,Not Completed,60,57,51,56.0,789,F
+F,Hispanic,some high school,standard,Not Completed,49,63,56,56.0,790,F
+F,Native American,some college,free/reduced,Not Completed,53,58,57,56.0,791,F
+F,Asian,bachelor's degree,standard,Not Completed,45,59,64,56.0,792,F
+M,Black,associate's degree,free/reduced,Completed,58,57,53,56.0,793,F
+M,White,high school,standard,Not Completed,64,54,50,56.0,794,F
+F,Hispanic,associate's degree,standard,Not Completed,53,62,53,56.0,795,F
+M,Hispanic,associate's degree,free/reduced,Completed,60,51,56,55.67,796,F
+M,Asian,bachelor's degree,free/reduced,Completed,49,58,60,55.67,797,F
+M,Hispanic,associate's degree,standard,Completed,57,54,56,55.67,798,F
+M,Native American,high school,free/reduced,Completed,57,56,54,55.67,799,F
+F,White,associate's degree,free/reduced,Not Completed,52,59,56,55.67,800,F
+F,White,some college,free/reduced,Not Completed,49,58,60,55.67,801,F
+F,White,high school,standard,Not Completed,45,63,59,55.67,802,F
+M,Hispanic,high school,standard,Not Completed,62,55,49,55.33,803,F
+F,Asian,some high school,free/reduced,Not Completed,44,64,58,55.33,804,F
+M,Hispanic,bachelor's degree,free/reduced,Not Completed,53,58,55,55.33,805,F
+M,Hispanic,associate's degree,free/reduced,Not Completed,58,55,53,55.33,806,F
+F,Hispanic,bachelor's degree,free/reduced,Not Completed,43,62,61,55.33,807,F
+F,White,high school,free/reduced,Completed,52,57,56,55.0,808,F
+M,White,some college,standard,Not Completed,55,58,52,55.0,809,F
+M,Hispanic,associate's degree,standard,Not Completed,58,54,52,54.67,810,F
+F,Hispanic,high school,free/reduced,Not Completed,42,62,60,54.67,811,F
+M,White,some college,free/reduced,Not Completed,61,47,56,54.67,812,F
+M,Asian,some college,standard,Completed,61,51,52,54.67,813,F
+F,Hispanic,associate's degree,standard,Not Completed,52,55,57,54.67,814,F
+M,Black,bachelor's degree,standard,Not Completed,59,54,51,54.67,815,F
+M,Hispanic,high school,free/reduced,Not Completed,59,53,52,54.67,816,F
+M,Black,high school,standard,Not Completed,59,58,47,54.67,817,F
+M,Hispanic,high school,standard,Completed,58,52,54,54.67,818,F
+F,White,some college,standard,Not Completed,51,58,54,54.33,819,F
+F,White,high school,standard,Not Completed,56,52,55,54.33,820,F
+M,White,some high school,free/reduced,Not Completed,62,49,52,54.33,821,F
+M,Hispanic,master's degree,free/reduced,Not Completed,54,59,50,54.33,822,F
+F,Asian,high school,free/reduced,Completed,53,50,60,54.33,823,F
+M,Native American,high school,free/reduced,Not Completed,55,56,51,54.0,824,F
+M,White,some high school,free/reduced,Not Completed,56,54,52,54.0,825,F
+F,Black,some college,free/reduced,Completed,48,56,58,54.0,826,F
+F,Black,some high school,free/reduced,Not Completed,49,58,55,54.0,827,F
+F,Black,associate's degree,free/reduced,Not Completed,46,61,55,54.0,828,F
+M,Asian,high school,standard,Not Completed,57,51,54,54.0,829,F
+F,Asian,master's degree,standard,Not Completed,50,53,58,53.67,830,F
+M,Hispanic,bachelor's degree,standard,Not Completed,58,55,48,53.67,831,F
+M,White,high school,standard,Not Completed,57,50,54,53.67,832,F
+F,Hispanic,associate's degree,standard,Not Completed,46,58,57,53.67,833,F
+M,Hispanic,high school,free/reduced,Completed,58,51,52,53.67,834,F
+F,White,associate's degree,free/reduced,Not Completed,43,60,58,53.67,835,F
+F,White,associate's degree,free/reduced,Completed,42,61,58,53.67,836,F
+F,Native American,associate's degree,free/reduced,Not Completed,50,56,54,53.33,837,F
+F,Hispanic,associate's degree,standard,Not Completed,39,64,57,53.33,838,F
+M,Hispanic,some high school,free/reduced,Completed,51,56,53,53.33,839,F
+F,White,some high school,standard,Not Completed,48,58,54,53.33,840,F
+M,White,associate's degree,free/reduced,Not Completed,52,57,50,53.0,841,F
+F,White,associate's degree,free/reduced,Not Completed,46,56,57,53.0,842,F
+F,Black,high school,free/reduced,Completed,46,54,58,52.67,843,F
+M,White,high school,standard,Not Completed,54,52,52,52.67,844,F
+F,White,associate's degree,free/reduced,Not Completed,47,53,58,52.67,845,F
+F,White,high school,free/reduced,Not Completed,49,57,52,52.67,846,F
+M,Black,high school,free/reduced,Not Completed,63,48,47,52.67,847,F
+F,Black,high school,standard,Not Completed,50,53,55,52.67,848,F
+F,Hispanic,some high school,free/reduced,Not Completed,48,58,52,52.67,849,F
+M,Black,some college,standard,Not Completed,54,52,51,52.33,850,F
+M,Asian,high school,standard,Not Completed,59,52,46,52.33,851,F
+M,Asian,some high school,standard,Not Completed,64,50,43,52.33,852,F
+M,Black,some college,free/reduced,Not Completed,55,55,47,52.33,853,F
+F,Hispanic,high school,standard,Not Completed,44,61,52,52.33,854,F
+M,Native American,some college,standard,Not Completed,53,55,48,52.0,855,F
+M,White,associate's degree,standard,Not Completed,52,55,49,52.0,856,F
+F,Asian,some high school,free/reduced,Not Completed,47,59,50,52.0,857,F
+F,Native American,associate's degree,standard,Not Completed,51,51,54,52.0,858,F
+M,Black,high school,standard,Not Completed,57,48,51,52.0,859,F
+M,Hispanic,high school,free/reduced,Completed,53,51,51,51.67,860,F
+F,Native American,master's degree,free/reduced,Not Completed,45,56,54,51.67,861,F
+M,White,associate's degree,free/reduced,Not Completed,53,54,48,51.67,862,F
+F,Black,associate's degree,standard,Not Completed,49,52,54,51.67,863,F
+M,Asian,some high school,standard,Not Completed,53,54,48,51.67,864,F
+M,White,associate's degree,standard,Not Completed,61,48,46,51.67,865,F
+M,Asian,high school,free/reduced,Not Completed,53,58,44,51.67,866,F
+F,Hispanic,associate's degree,standard,Not Completed,49,53,53,51.67,867,F
+F,Hispanic,some high school,free/reduced,Not Completed,48,56,51,51.67,868,F
+F,White,some high school,free/reduced,Not Completed,48,54,53,51.67,869,F
+M,Asian,associate's degree,standard,Not Completed,54,53,47,51.33,870,F
+M,Black,master's degree,free/reduced,Not Completed,49,53,52,51.33,871,F
+M,Hispanic,high school,standard,Not Completed,52,53,49,51.33,872,F
+F,Hispanic,some college,standard,Not Completed,54,48,52,51.33,873,F
+M,Hispanic,high school,standard,Completed,53,52,49,51.33,874,F
+F,Hispanic,some high school,standard,Not Completed,47,54,53,51.33,875,F
+F,Black,some college,free/reduced,Not Completed,45,53,55,51.0,876,F
+M,Native American,some college,standard,Not Completed,59,51,43,51.0,877,F
+M,Black,some college,free/reduced,Not Completed,54,54,45,51.0,878,F
+F,White,master's degree,free/reduced,Not Completed,40,59,54,51.0,879,F
+M,Black,some college,standard,Not Completed,58,50,45,51.0,880,F
+F,Hispanic,master's degree,free/reduced,Not Completed,40,58,54,50.67,881,F
+M,White,some college,free/reduced,Not Completed,49,57,46,50.67,882,F
+M,Native American,some college,free/reduced,Completed,49,52,51,50.67,883,F
+M,White,some college,standard,Not Completed,44,54,53,50.33,884,F
+M,Asian,some college,free/reduced,Completed,50,47,54,50.33,885,F
+M,Black,high school,standard,Completed,60,44,47,50.33,886,F
+F,Asian,bachelor's degree,standard,Not Completed,51,49,51,50.33,887,F
+F,Native American,some college,free/reduced,Completed,42,55,54,50.33,888,F
+M,Hispanic,some college,free/reduced,Completed,50,48,53,50.33,889,F
+M,Hispanic,associate's degree,free/reduced,Not Completed,49,51,51,50.33,890,F
+M,Black,some high school,free/reduced,Completed,49,50,52,50.33,891,F
+M,White,bachelor's degree,standard,Not Completed,54,49,47,50.0,892,F
+F,White,some high school,free/reduced,Completed,35,55,60,50.0,893,F
+F,Hispanic,high school,free/reduced,Not Completed,35,61,54,50.0,894,F
+F,Hispanic,some high school,standard,Completed,44,51,55,50.0,895,F
+F,Asian,associate's degree,free/reduced,Not Completed,37,57,56,50.0,896,F
+F,Hispanic,associate's degree,standard,Not Completed,40,59,51,50.0,897,F
+M,Hispanic,some college,standard,Not Completed,58,49,42,49.67,898,F
+F,Hispanic,some high school,free/reduced,Not Completed,43,53,53,49.67,899,F
+M,Black,high school,standard,Not Completed,52,48,49,49.67,900,F
+M,Asian,associate's degree,free/reduced,Not Completed,47,57,44,49.33,901,F
+F,Black,high school,free/reduced,Not Completed,38,60,50,49.33,902,F
+F,Hispanic,bachelor's degree,free/reduced,Completed,43,51,54,49.33,903,F
+M,Asian,associate's degree,free/reduced,Completed,40,55,53,49.33,904,F
+M,Asian,high school,standard,Not Completed,57,43,47,49.0,905,F
+F,Native American,high school,standard,Not Completed,50,50,47,49.0,906,F
+M,White,high school,standard,Not Completed,53,52,42,49.0,907,F
+M,Hispanic,some high school,standard,Not Completed,51,52,44,49.0,908,F
+F,Black,some high school,standard,Not Completed,41,55,51,49.0,909,F
+M,Black,high school,standard,Completed,52,49,46,49.0,910,F
+F,Black,associate's degree,standard,Not Completed,47,49,50,48.67,911,F
+M,Black,some high school,standard,Completed,51,54,41,48.67,912,F
+M,Hispanic,some high school,free/reduced,Completed,45,52,49,48.67,913,F
+M,White,some high school,standard,Not Completed,55,47,44,48.67,914,F
+M,Black,some high school,free/reduced,Not Completed,48,52,45,48.33,915,F
+M,Asian,some high school,standard,Completed,47,49,49,48.33,916,F
+F,Hispanic,some high school,free/reduced,Not Completed,44,50,51,48.33,917,F
+M,Black,bachelor's degree,free/reduced,Not Completed,48,51,46,48.33,918,F
+F,Black,high school,standard,Not Completed,42,52,51,48.33,919,F
+M,White,bachelor's degree,free/reduced,Not Completed,55,46,44,48.33,920,F
+M,White,high school,standard,Not Completed,41,52,51,48.0,921,F
+M,Asian,some high school,free/reduced,Not Completed,55,46,43,48.0,922,F
+M,Black,associate's degree,standard,Not Completed,61,42,41,48.0,923,F
+M,White,high school,standard,Completed,55,41,48,48.0,924,F
+M,Hispanic,associate's degree,standard,Not Completed,49,51,43,47.67,925,F
+M,White,high school,free/reduced,Not Completed,44,51,48,47.67,926,F
+M,Hispanic,some college,standard,Not Completed,59,41,42,47.33,927,F
+M,White,some high school,free/reduced,Not Completed,59,42,41,47.33,928,F
+M,Asian,high school,free/reduced,Not Completed,45,47,49,47.0,929,F
+F,Asian,associate's degree,free/reduced,Not Completed,41,51,48,46.67,930,F
+M,Hispanic,bachelor's degree,free/reduced,Not Completed,37,56,47,46.67,931,F
+M,Hispanic,high school,standard,Not Completed,50,48,42,46.67,932,F
+M,White,bachelor's degree,free/reduced,Not Completed,50,42,48,46.67,933,F
+M,Hispanic,some college,standard,Not Completed,53,44,42,46.33,934,F
+M,Hispanic,some high school,standard,Not Completed,49,49,41,46.33,935,F
+M,Black,high school,free/reduced,Not Completed,49,45,45,46.33,936,F
+M,White,high school,standard,Not Completed,45,48,46,46.33,937,F
+M,Asian,some college,standard,Not Completed,53,43,43,46.33,938,F
+M,Hispanic,associate's degree,free/reduced,Completed,43,45,50,46.0,939,F
+F,Black,associate's degree,standard,Not Completed,40,48,50,46.0,940,F
+M,Native American,associate's degree,standard,Not Completed,53,45,40,46.0,941,F
+F,White,high school,free/reduced,Not Completed,39,52,46,45.67,942,F
+M,Hispanic,high school,free/reduced,Completed,40,46,50,45.33,943,F
+M,Black,associate's degree,standard,Not Completed,48,43,45,45.33,944,F
+M,White,associate's degree,standard,Not Completed,40,52,43,45.0,945,F
+M,Black,high school,standard,Not Completed,47,46,42,45.0,946,F
+M,Hispanic,master's degree,free/reduced,Completed,46,42,46,44.67,947,F
+M,Asian,high school,free/reduced,Not Completed,48,45,41,44.67,948,F
+F,Hispanic,high school,free/reduced,Not Completed,35,53,46,44.67,949,F
+F,Asian,some high school,free/reduced,Not Completed,44,45,45,44.67,950,F
+M,Native American,associate's degree,free/reduced,Completed,46,43,44,44.33,951,F
+F,Native American,some high school,free/reduced,Not Completed,38,49,45,44.0,952,F
+F,Hispanic,high school,free/reduced,Not Completed,36,53,43,44.0,953,F
+M,Hispanic,associate's degree,standard,Not Completed,46,43,42,43.67,954,F
+M,Black,some college,standard,Not Completed,47,43,41,43.67,955,F
+M,Hispanic,some high school,free/reduced,Completed,53,37,40,43.33,956,F
+M,Asian,some high school,standard,Completed,46,41,43,43.33,957,F
+F,Hispanic,high school,free/reduced,Not Completed,41,46,43,43.33,958,F
+M,Native American,associate's degree,free/reduced,Not Completed,46,43,41,43.33,959,F
+F,Black,some high school,standard,Not Completed,37,46,46,43.0,960,F
+M,Hispanic,some college,standard,Not Completed,53,39,37,43.0,961,F
+F,Black,some high school,standard,Completed,32,51,44,42.33,962,F
+F,Native American,high school,free/reduced,Not Completed,41,45,40,42.0,963,F
+F,Asian,some high school,free/reduced,Not Completed,38,43,43,41.33,964,F
+M,Black,associate's degree,free/reduced,Not Completed,44,41,38,41.0,965,F
+F,Asian,high school,free/reduced,Completed,34,48,41,41.0,966,F
+M,Black,some college,free/reduced,Not Completed,40,43,39,40.67,967,F
+F,Hispanic,some college,free/reduced,Not Completed,35,44,43,40.67,968,F
+M,White,some college,standard,Not Completed,40,42,38,40.0,969,F
+F,Native American,bachelor's degree,standard,Not Completed,37,45,38,40.0,970,F
+M,White,some high school,free/reduced,Not Completed,45,37,37,39.67,971,F
+M,Hispanic,associate's degree,standard,Not Completed,47,37,35,39.67,972,F
+M,White,bachelor's degree,free/reduced,Completed,39,42,38,39.67,973,F
+M,Asian,some high school,standard,Not Completed,51,31,36,39.33,974,F
+F,Hispanic,high school,free/reduced,Not Completed,33,41,43,39.0,975,F
+F,White,bachelor's degree,free/reduced,Not Completed,29,41,47,39.0,976,F
+M,White,high school,standard,Not Completed,46,34,36,38.67,977,F
+M,White,high school,free/reduced,Not Completed,42,39,34,38.33,978,F
+F,Hispanic,high school,free/reduced,Not Completed,34,42,39,38.33,979,F
+M,Black,some college,free/reduced,Not Completed,41,39,34,38.0,980,F
+F,Hispanic,some high school,free/reduced,Completed,29,40,44,37.67,981,F
+M,Asian,some high school,free/reduced,Not Completed,39,39,34,37.33,982,F
+F,Hispanic,some college,free/reduced,Not Completed,32,39,33,34.67,983,F
+F,Native American,some high school,free/reduced,Not Completed,32,34,38,34.67,984,F
+F,Black,high school,free/reduced,Completed,23,44,36,34.33,985,F
+M,Hispanic,high school,free/reduced,Not Completed,27,34,36,32.33,986,F
+F,White,associate's degree,free/reduced,Not Completed,26,31,38,31.67,987,F
+F,Hispanic,some college,free/reduced,Not Completed,22,39,33,31.33,988,F
+F,White,some high school,free/reduced,Not Completed,27,34,32,31.0,989,F
+M,Black,high school,free/reduced,Not Completed,36,29,27,30.67,990,F
+M,Hispanic,some college,free/reduced,Not Completed,35,28,27,30.0,991,F
+F,Black,some high school,free/reduced,Not Completed,24,38,27,29.67,992,F
+F,Black,some college,standard,Not Completed,19,38,32,29.67,993,F
+F,Hispanic,high school,standard,Not Completed,29,29,30,29.33,994,F
+F,Black,some high school,free/reduced,Not Completed,18,32,28,26.0,995,F
+M,Native American,some high school,standard,Not Completed,30,26,22,26.0,996,F
+M,Asian,some college,free/reduced,Not Completed,28,23,19,23.33,997,F
+M,Black,high school,free/reduced,Not Completed,30,24,15,23.0,998,F
+F,Black,high school,free/reduced,Not Completed,8,24,23,18.33,999,F
+F,Hispanic,some high school,free/reduced,Not Completed,0,17,10,9.0,1000,F

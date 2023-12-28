@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_Tq5UgKTzEe698eaAmFex3w" name="StudentPerformanceInExams" id="_TqwKkKTzEe698eaAmFex3w" dataPackage="_TrDFgKTzEe698eaAmFex3w" Server="Localhost 127.0.0.1" FilePath="C:/Users/MSI/Desktop/BigData Project/inputdata/StudentsPerformance.csv" Encoding="US-ASCII" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FooterValue="0" LimitValue="" FirstLineCaption="true" EscapeChar="&quot;\&quot;&quot;" TextEnclosure="&quot;\&quot;&quot;" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_TrDFgKTzEe698eaAmFex3w" name="default" dataManager="_Tq5UgKTzEe698eaAmFex3w">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_TrDFgaTzEe698eaAmFex3w" id="_wzTqkKTyEe698eaAmFex3w" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_TrDFgqTzEe698eaAmFex3w" label="gender" length="8" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_TrDFg6TzEe698eaAmFex3w" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_TrDFhKTzEe698eaAmFex3w" label="ethnicity" length="9" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_TrDFhaTzEe698eaAmFex3w" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_TrDFhqTzEe698eaAmFex3w" label="parental_level_of_education" length="20" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_TrDFh6TzEe698eaAmFex3w" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_TrDFiKTzEe698eaAmFex3w" label="lunch" length="14" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_TrDFiaTzEe698eaAmFex3w" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_TrDFiqTzEe698eaAmFex3w" label="test_preparation_course" length="11" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_TrDFi6TzEe698eaAmFex3w" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_TrDFjKTzEe698eaAmFex3w" label="math_score" length="4" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_TrDFjaTzEe698eaAmFex3w" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_TrDFjqTzEe698eaAmFex3w" label="reading_score" length="4" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_TrDFj6TzEe698eaAmFex3w" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_TrDFkKTzEe698eaAmFex3w" label="writing_score" length="4" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_TrDFkaTzEe698eaAmFex3w" body=""/>
+      </feature>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

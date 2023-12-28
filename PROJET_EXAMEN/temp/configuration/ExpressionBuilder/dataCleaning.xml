@@ -1,0 +1,13 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<expression:EMFExpression xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:expression="http:///expression.ecore" id="tMap_7=>" expression="(out5.average >= 90) ? &quot;A&quot; :&#xA;              (out5.average >= 80 &amp;&amp; out5.average &lt; 90) ? &quot;B&quot; :&#xA;              (out5.average >= 70 &amp;&amp; out5.average &lt; 80) ? &quot;C&quot; :&#xA;              (out5.average >= 60 &amp;&amp; out5.average &lt; 70) ? &quot;D&quot; :&#xA;              &quot;F&quot;;">
+  <variables name="out5.gender" value="null" talendType="id_String" nullable="true"/>
+  <variables name="out5.ethnicity" value="null" talendType="id_String" nullable="true"/>
+  <variables name="out5.parental_level_of_education" value="null" talendType="id_String" nullable="true"/>
+  <variables name="out5.lunch" value="null" talendType="id_String" nullable="true"/>
+  <variables name="out5.test_preparation_course" value="null" talendType="id_String" nullable="true"/>
+  <variables name="out5.math_score" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="out5.reading_score" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="out5.writing_score" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="out5.average" value="null" talendType="id_Double" nullable="true"/>
+  <variables name="out5.rank" value="null" talendType="id_Integer" nullable="true"/>
+</expression:EMFExpression>
