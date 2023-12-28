@@ -16,7 +16,7 @@ The dataset provided in this project is a dataset that I found on Kaggle
 **Built With**
 * [Power BI](https://powerbi.microsoft.com/en-us/) - Interactive Data Visualization
 <p align="center">
-    <img width="100" height="100" src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png">
+    <img width="300" height="157.5" src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png">
 </p>
 
 * [Talend](https://www.talend.com/) - Data Integration (modern ETL)
